@@ -8,5 +8,6 @@
 </head>
 <body>
 	Hello 반갑습니다.jsp 강좌 시작입니다.
+	배위
 </body>
 </html>
